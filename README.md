@@ -1,4 +1,8 @@
 # <p align = "center"> JOBSET </p>
+Team Members
+Anuradha Naidu
+Swayam Karle
+Vivek Sahu
 
 ##  About JobSet
 This is a simple job-finding website named JobSet. This website is being developed under the competition IBM Web Intern.
